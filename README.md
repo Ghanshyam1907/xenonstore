@@ -19,8 +19,8 @@
 - ##### Web View
             
 | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-|    ![ 'Home Page' (Web View)](./img/ximg1.png)    |    !['' (Web View)](./img/ximg2.png.png)     |
-|    ![ 'login' (Web View)](./img/ximg3.png)    |    !['logout' (Web View)](./img/ximg4.png.png)     |
+|    ![ 'Home Page' (Web View)](/images/ximg1.png)    |    !['' (Web View)](/images/ximg2.png.png)     |
+|    ![ 'login' (Web View)](/images/ximg3.png)    |    !['logout' (Web View)](/images/ximg4.png.png)     |
 
 
 
@@ -36,7 +36,7 @@
 
 <a id="flow-diagram"></a>
 ### Flow Diagram
-![web (Flow Diagram)](./img/flow.png)
+![web (Flow Diagram)](/images/flow.png)
 
 <a id="how-to-run"></a>
 ### How To Run??
