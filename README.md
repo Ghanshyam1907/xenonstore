@@ -18,8 +18,8 @@
 <a id="web-view"></a>
 - ##### Web View
             
-| :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-|    ![ 'Home Page' (Web View)](/images/ximg1.png)    |    !['' (Web View)](/images/ximg2.png)     |
+
+|    ![ 'Home Page' (Web View)](/images/ximg1.png)    |    !['' (Web View)](/images/ximg2.png)     
 |    ![ 'login' (Web View)](/images/ximg3.png)    |    !['logout' (Web View)](/images/ximg4.png)     |
 
 
